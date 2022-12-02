@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eb599bc-0e2b-4991-841d-b7ef8443faeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bubblesort/BubbleSort.java" afterDir="false" />
+    <list default="true" id="1eb599bc-0e2b-4991-841d-b7ef8443faeb" name="Changes" comment="BubbleSort Algorithm">
+      <change afterPath="$PROJECT_DIR$/hs_err_pid21476.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/insertposition/removeOccurrenceOfElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rotatearray/RotateArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bubblesort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bubblesort/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +36,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Algorithms" />
@@ -48,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -62,8 +74,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660645710887</updated>
-      <workItem from="1660645712406" duration="2134000" />
+      <workItem from="1660645712406" duration="2957000" />
+      <workItem from="1660719083319" duration="1469000" />
+      <workItem from="1660814299224" duration="2260000" />
+      <workItem from="1663829180845" duration="1432000" />
+      <workItem from="1663926373583" duration="1202000" />
+      <workItem from="1663994878573" duration="1293000" />
+      <workItem from="1664175239965" duration="17000" />
+      <workItem from="1669277912194" duration="1319000" />
+      <workItem from="1669360421163" duration="3336000" />
+      <workItem from="1669365663637" duration="1497000" />
+      <workItem from="1669631982163" duration="13000" />
+      <workItem from="1669719286741" duration="1444000" />
+      <workItem from="1669801392075" duration="3637000" />
+      <workItem from="1669882619456" duration="40000" />
     </task>
+    <task id="LOCAL-00001" summary="BubbleSort Algorithm">
+      <created>1660651396084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660651396084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +112,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BubbleSort Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="BubbleSort Algorithm" />
   </component>
 </project>
