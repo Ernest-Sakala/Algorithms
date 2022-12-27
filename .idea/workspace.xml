@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eb599bc-0e2b-4991-841d-b7ef8443faeb" name="Changes" comment="BubbleSort Algorithm">
-      <change afterPath="$PROJECT_DIR$/hs_err_pid21476.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/insertposition/removeOccurrenceOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rotatearray/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/insertionsort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectionsort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validParenthesis/ValidParenthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bubblesort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bubblesort/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RunManager" selected="Application.Solution">
@@ -88,6 +88,15 @@
       <workItem from="1669719286741" duration="1444000" />
       <workItem from="1669801392075" duration="3637000" />
       <workItem from="1669882619456" duration="40000" />
+      <workItem from="1669970778402" duration="3434000" />
+      <workItem from="1669987769873" duration="9000" />
+      <workItem from="1670059320983" duration="2808000" />
+      <workItem from="1670131867273" duration="4874000" />
+      <workItem from="1670855887204" duration="1097000" />
+      <workItem from="1670927799238" duration="55000" />
+      <workItem from="1671113080869" duration="1075000" />
+      <workItem from="1671531288360" duration="473000" />
+      <workItem from="1672132245572" duration="1732000" />
     </task>
     <task id="LOCAL-00001" summary="BubbleSort Algorithm">
       <created>1660651396084</created>
@@ -116,5 +125,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BubbleSort Algorithm" />
     <option name="LAST_COMMIT_MESSAGE" value="BubbleSort Algorithm" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/insertionsort/InsertionSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

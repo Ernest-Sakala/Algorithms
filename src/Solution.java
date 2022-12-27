@@ -1,5 +1,9 @@
+import bubblesort.BubbleSort;
+import insertionsort.InsertionSort;
 import insertposition.removeOccurrenceOfElement;
 import rotatearray.RotateArray;
+import selectionsort.SelectionSort;
+import validParenthesis.ValidParenthesis;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -10,15 +14,15 @@ public class Solution {
 
     public static void main(String args[]) {
 
-        int [] array = {1,2,3,4, 5, 6,7};
+        int [] array = {4,0};
 
-        int target = 1;
+      //  int target = 1;
 
-        System.out.println(Arrays.toString(RotateArray.rotateArray(array, target)));
+        String s =  "()[]{}";
 
+        InsertionSort.insertionSort(array);
 
-
-
+        System.out.println(Arrays.toString(array));
 
 
 //        // Declare integer 'T' (Number of Test Cases)
